@@ -9,7 +9,7 @@ For this project we have to build a differential drive robot which can avoid obs
 2. Run `catkin_make`
 3. Launch your terminal and run the command `roslaunch exercise2 bot.launch`. 
 This will launch and load the robot in the gazebo enviroment
-4. In another terminal, run the command `rosrun excercise2 cmd_bot` to start the robot and begin the obstacle avoidance course.
+4. In another terminal, run the command `rosrun exercise2 cmd_bot` to start the robot and begin the obstacle avoidance course.
 
 ## Prerequisites
 

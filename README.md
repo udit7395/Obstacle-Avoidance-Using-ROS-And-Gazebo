@@ -17,9 +17,9 @@ This will launch and load the robot in the gazebo enviroment
 * [Gazebo](http://wiki.ros.org/gazebo_ros_pkgs)
 
 
-## Video
+<!-- ## Video
 
-[![Obstacle-Avoidance-Using-ROS-And-Gazebo](http://img.youtube.com/vi/EUBlb_D2kW8/0.jpg)](https://www.youtube.com/watch?v=EUBlb_D2kW8 "Obstacle-Avoidance-Using-ROS-And-Gazebo")
+[![Obstacle-Avoidance-Using-ROS-And-Gazebo](http://img.youtube.com/vi/EUBlb_D2kW8/0.jpg)](https://www.youtube.com/watch?v=EUBlb_D2kW8 "Obstacle-Avoidance-Using-ROS-And-Gazebo") -->
 
 ## To-Do / Improvements
 
